@@ -77,7 +77,7 @@ class ReyRata:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🎮 Otros
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -129,34 +129,9 @@ class ReyRata:
 
 <div align="center">
 
-### 🎓 Materias Cursadas (3er Año)
 
-```mermaid
-gantt
-    title Progreso Académico 2024-2025
-    dateFormat  YYYY-MM-DD
-    section Primer Semestre
-    Inteligencia Artificial          :done, ia, 2024-09-01, 2024-12-20
-    Programación Concurrente        :done, pc, 2024-09-01, 2024-12-20
-    Estructura de Computadores II   :done, ec, 2024-09-01, 2024-12-20
-    Algoritmos Avanzados           :done, alg, 2024-09-01, 2024-12-20
-    
-    section Segundo Semestre
-    Bases de Datos Avanzadas       :active, bd, 2025-01-01, 2025-05-30
-    Ingeniería del Software        :active, is, 2025-01-01, 2025-05-30
-    Redes de Computadores         :active, redes, 2025-01-01, 2025-05-30
-    Sistemas Distribuidos         :active, sd, 2025-01-01, 2025-05-30
-```
 
-### 🏅 Logros y Certificaciones
 
-| 📚 Área | 🎯 Logro | 📅 Fecha | ⭐ Estado |
-|----------|----------|----------|-----------|
-| 🤖 **Machine Learning** | Proyecto IA-ML UIB | Dic 2024 | ✅ Completado |
-| ⚡ **Concurrencia** | Sincronización Multi-lenguaje | Oct 2024 | ✅ Completado |
-| 🧮 **Algoritmos** | Visualizador de Fractales | Oct 2024 | ✅ Completado |
-| 🔧 **Assembly** | Juego Completo en ASM | Nov 2024 | ✅ Completado |
-| 💻 **LeetCode** | 50+ Problemas Resueltos | En curso | 🔄 En progreso |
 
 </div>
 
@@ -191,19 +166,7 @@ dom  ██████████████                    35%
 
 <div align="center">
 
-### 🚀 Metas a Corto Plazo (Q1-Q2 2025)
-- [ ] 🎓 **Completar 4º año** de Ingeniería Informática
-- [ ] 🤖 **Proyecto Final** en Deep Learning o Computer Vision  
-- [ ] 💼 **Prácticas en empresa** tecnológica
-- [ ] 📚 **100+ problemas** resueltos en LeetCode
-- [ ] 🌐 **Contribuir** a proyectos open source
 
-### 🎯 Metas a Largo Plazo (2025-2026)
-- [ ] 🎯 **Graduación** con especialización en IA
-- [ ] 🚀 **Primer trabajo** como Software Developer
-- [ ] 📱 **App móvil** publicada en stores
-- [ ] 🏆 **Certificaciones** profesionales (AWS, Google Cloud)
-- [ ] 📖 **Blog técnico** con tutoriales y artículos
 
 </div>
 
@@ -212,9 +175,9 @@ dom  ██████████████                    35%
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxReyRataxX)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rey-rata)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rey.rata@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/reyrata)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rey-rat](https://www.linkedin.com/in/antonio-mari-gonzalez-7b172b266/)a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyratapropvp@example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](@XxReyRataxX)
 
 ### 💬 ¡Hablemos!
 
@@ -233,14 +196,3 @@ dom  ██████████████                    35%
 
 ---
 
-<div align="center">
-
-### 🌟 "El código es poesía en movimiento, los algoritmos son arte en acción" 🌟
-
-![Snake animation](https://raw.githubusercontent.com/XxReyRataxX/XxReyRataxX/output/github-contribution-grid-snake.svg)
-
-**⭐ Dale una estrella a mis repos si te gustan | 🍴 Fork them si quieres contribuir**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</div>
