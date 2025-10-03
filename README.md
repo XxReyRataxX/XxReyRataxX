@@ -99,11 +99,6 @@ class ReyRata:
 **Visualizador de Algoritmos Geométricos** • `Java` `Swing` `Algorithms`
 > Aplicación interactiva para visualizar patrones fractales y algoritmos de teselado. Incluye Trominos, Sierpinski, Hilbert y más.
 
-### ⚡ [Programación Concurrente](https://github.com/XxReyRataxX/ProgramacionConcurrente2425)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XxReyRataxX&repo=ProgramacionConcurrente2425&theme=radical&hide_border=true)](https://github.com/XxReyRataxX/ProgramacionConcurrente2425)
-
-**Sistemas Concurrentes y Paralelos** • `Python` `Java` `Ada` `C`
-> Implementaciones de algoritmos de sincronización, exclusión mutua y programación paralela en múltiples lenguajes.
 
 ### 🎮 [Zemword](https://github.com/XxReyRataxX/Zemword)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XxReyRataxX&repo=Zemword&theme=radical&hide_border=true)](https://github.com/XxReyRataxX/Zemword)
