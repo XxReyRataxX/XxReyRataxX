@@ -1,4 +1,4 @@
-Aquí tienes el contenido completo del `README.md` listo para que lo copies y lo pegues en tu perfil de GitHub:
+
 
 ````markdown
 # ¡Hola! 👋 Soy Rey Rata
