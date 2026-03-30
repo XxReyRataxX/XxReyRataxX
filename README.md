@@ -152,17 +152,17 @@
 
 ## 📊 Estadísticas de GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reyra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyra&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxreyrataxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxreyrataxx&layout=compact&langs_count=8&theme=tokyonight"/>
 
 ## 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=reyra&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xxreyrataxx&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=reyra&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xxreyrataxx&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⚡ Actividad Reciente
-[![Reyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reyra&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Reyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xxreyrataxx&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -174,28 +174,16 @@
 
 ## 📫 ¡Conecta conmigo!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reyra)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@uib.es)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antonio-mari-gonzalez-7b172b266)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xxreyraxx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyratapropvp@gmail.com)
 
-### 🤝 ¿Quieres colaborar en algún proyecto?
 
-![Colaboración](https://img.shields.io/badge/Colaboraciones-Bienvenidas-brightgreen?style=for-the-badge)
-![Estudiantes](https://img.shields.io/badge/Estudiantes-UIB-blue?style=for-the-badge)
-![Proyectos](https://img.shields.io/badge/Proyectos-Abiertos-orange?style=for-the-badge)
 
----
-
-### 💡 *"El código es poesía en movimiento"*
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>¡Siempre aprendiendo algo nuevo!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="30">
-
----
 
 *Repositorio actualizado para el curso académico 2025-2026 🎓*
 
-![Cute Count](https://count.getloli.com/get/@reyra?theme=rule34)
+![Cute Count](https://count.getloli.com/get/@xxreyrataxx?theme=rule34)
 
 </div>
 =======
@@ -203,5 +191,4 @@
 
 Este repositorio aloja mis soluciones a los desafíos anuales de **Advent of Code (AoC)**. Cada día de diciembre, me enfrento a dos puzles de lógica y programación, enfocándome en el diseño eficiente de algoritmos y la resolución de problemas. El objetivo es desentrañar la lógica de cada reto y codificar una respuesta limpia y funcional.
 
-**¡Explora las soluciones y el código!**
->>>>>>> main
+
