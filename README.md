@@ -150,16 +150,12 @@
 
 <div align="center">
 
-## 📊 Estadísticas de GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=XxReyRataxX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxReyRataxX&layout=compact&langs_count=8&theme=tokyonight"/>
 
 ## 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=XxReyRataxX&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=XxReyRataxX&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## ⚡ Actividad Reciente
 [![Reyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XxReyRataxX&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
