@@ -1,4 +1,4 @@
-<<<<<<< master
+
 <div align="center">
 
 # 👋 ¡Hola! Soy un estudiante de Ingeniería Informática
